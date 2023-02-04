@@ -22,3 +22,6 @@ Sensor : ESP8266 Description - We are using HTTP data transmission protocol to s
 Cloud Platform : Python Anywhere Description -
 
 Cloud Platform Video (Stage 2): https://youtu.be/BVQOSDlSvCs
+
+## System Architechture ##
+![image](https://user-images.githubusercontent.com/117339261/216793875-78cc453c-a5df-4b78-be25-c6cb1f2cf214.png)
