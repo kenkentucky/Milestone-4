@@ -27,4 +27,4 @@ Cloud Platform Video (Stage 2): https://youtu.be/BVQOSDlSvCs
 ![image](https://user-images.githubusercontent.com/117339261/216793875-78cc453c-a5df-4b78-be25-c6cb1f2cf214.png)
 
 ## Dashboard ##
-![image](https://user-images.githubusercontent.com/117339261/216797393-ebf94350-4412-457e-91a7-8c21c13caa30.png)
+![WhatsApp Image 2023-02-05 at 10 06 41](https://user-images.githubusercontent.com/117339261/216797875-79403b69-2d71-45fc-8ca4-ebb31b8f03bc.jpeg)
