@@ -30,3 +30,8 @@ Cloud Platform Video (Stage 2): https://youtu.be/BVQOSDlSvCs
 
 ## Dashboard ##
 ![dashboard](https://user-images.githubusercontent.com/116706592/219959623-5069e3a0-89ba-4d8f-a838-2c94dd13dd88.png)
+
+
+## Database and RDBMS ##
+
+
