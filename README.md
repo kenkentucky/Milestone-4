@@ -24,7 +24,9 @@ Cloud Platform : Python Anywhere Description - PythonAnywhere is a cloud-based p
 Cloud Platform Video (Stage 2): https://youtu.be/BVQOSDlSvCs
 
 ## System Architechture ##
-![image](https://user-images.githubusercontent.com/117339261/216793875-78cc453c-a5df-4b78-be25-c6cb1f2cf214.png)
+![architecture](https://user-images.githubusercontent.com/116706592/219959820-02e122b2-6e5b-4307-ac11-5ab0ea03d597.png)
+
+
 
 ## Dashboard ##
-![WhatsApp Image 2023-02-05 at 10 06 41](https://user-images.githubusercontent.com/117339261/216797875-79403b69-2d71-45fc-8ca4-ebb31b8f03bc.jpeg)
+![dashboard](https://user-images.githubusercontent.com/116706592/219959623-5069e3a0-89ba-4d8f-a838-2c94dd13dd88.png)
