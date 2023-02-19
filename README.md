@@ -21,7 +21,6 @@ Sensor : ESP8266 Description - We are using HTTP data transmission protocol to s
 
 Cloud Platform : Python Anywhere Description - PythonAnywhere is a cloud-based platform that allows users to run and host Python applications in the cloud. It provides a web-based interface for managing and running Python code, as well as a variety of tools and features to support development, such as a code editor, a file manager, and the ability to schedule and run tasks. PythonAnywhere is particularly well-suited for web development, as it offers a fully-configured web server and support for popular web development frameworks like Django.
 
-Cloud Platform Video (Stage 2): https://youtu.be/BVQOSDlSvCs
 
 ## System Architechture ##
 ![architecture](https://user-images.githubusercontent.com/116706592/219959820-02e122b2-6e5b-4307-ac11-5ab0ea03d597.png)
@@ -34,4 +33,5 @@ Cloud Platform Video (Stage 2): https://youtu.be/BVQOSDlSvCs
 
 ## Database and RDBMS ##
 
-
+## Website link ##
+https://iottemperature.000webhostapp.com/
